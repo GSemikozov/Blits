@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'PollockC1';
+    src: url('../fonts/PollockC1.eot');
+    src: url('../fonts/PollockC1.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PollockC1.woff') format('woff'),
+    url('../fonts/PollockC1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'YanusC';
+    src: url('../fonts/YanusC.eot');
+    src: url('../fonts/YanusC.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/YanusC.woff') format('woff'),
+    url('../fonts/YanusC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
